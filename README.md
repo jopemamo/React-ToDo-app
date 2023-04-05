@@ -2,4 +2,4 @@
 Classic toDo app with no Hooks done during a weekend-test at Salt
 
 
-https://ecstatic-shirley-082a22.netlify.app
+https://react-todo-jopemamo.netlify.app/
